@@ -1,2 +1,1 @@
-# my-website
-making my project
+args: --verbose ./index.html ./README.md
